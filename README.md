@@ -21,6 +21,8 @@ The dataset includes approximately one week of 311 service requests across all f
 
 **Visualization: Grafana**
 
+![Project Architecture Diagram](AWS_Architecture.png)
+
 ---
 
 ### :file_folder: Repository Structure
