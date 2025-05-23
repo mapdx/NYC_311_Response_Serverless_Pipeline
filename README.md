@@ -141,9 +141,7 @@ The dataset includes approximately one week of 311 service requests across all f
 
 -Parameterize Glue jobs for date range or incremental ingestion
 
--Automate the workflow using Glue Triggers or Step Functions
-
--Consider CI/CD integration (e.g., with GitHub Actions)
+-Automate the workflow using Glue Triggers
 
 ---
 
